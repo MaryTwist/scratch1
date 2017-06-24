@@ -1,0 +1,21 @@
+{
+  "name": "scratch1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaryTwist/scratch1.git"
+  },
+  "author": "serjin_rwd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaryTwist/scratch1/issues"
+  },
+  "homepage": "https://github.com/MaryTwist/scratch1#readme"
+}
